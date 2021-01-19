@@ -1,3 +1,4 @@
-# QuanLyBanVeMayBay
-
-Phần mềm sử dụng ngôn ngữ Java với Spring MVC và ứng dụng Hibernate qua đó khách hàng có thể duyệt qua lịch trình chuyến bay và tình trạng vé giữa 2 địa điểm trong một ngày cụ thể và sau đó đăng nhập hoặc đăng ký và đặt vé. Khách hàng sẽ nhận được email xác nhận khi họ đặt vé cũng như có sẵn chế độ xem pdf của vé đã đặt. Khách hàng cũng có thể hủy vé đã đặt trước đó nếu không vi phạm thời gian. Phần mềm còn triển khai xác thực tên người dùng tránh việc trùng thông tin bằng AJAX. Admin có thể thêm/xóa các hãng hàng không cũng như thêm/sửa/xóa các chuyến bay và có thể xem tất cả hành khách trên chuyến bay đó.
+Airline Ticket Booking System
+                                    
+Spring MVC and Hibernate application through which customers can browse flights schedule and ticket availability between 2 locations for a particular date and then login or signup and book ticket. Customers’ gets an email confirmation when they book the ticket as well as a pdf view of booked ticket is available. A customer can cancel ticket as well
+Implemented unique username validation using AJAX. Admin can add/delete airline as well as add/update/delete flight and can view all passengers for flights
